@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-13T03:56:37.517Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="hIajt9-zSDKZqTNrewgR" version="13.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-13T05:04:18.809Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="AL4XHqHNe4LWLd61nvnx" version="13.9.6" type="github">
   <diagram id="2O7FE7nw1M-nkVsBx9Zh" name="Page-1">
     <mxGraphModel dx="1426" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -34,7 +34,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="u619u7Bk09ly1aYNOgYn-9" value="&lt;span style=&quot;&quot;&gt;BatchExecExchange&lt;br&gt;[&lt;/span&gt;&lt;span style=&quot;&quot;&gt;FlinkRelDistribution:single&lt;/span&gt;&lt;span style=&quot;&quot;&gt;]&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+        <mxCell id="u619u7Bk09ly1aYNOgYn-9" value="&lt;span style=&quot;&quot;&gt;BatchExecExchange&lt;br&gt;[&lt;/span&gt;&lt;span style=&quot;&quot;&gt;FlinkRelDistribution:single&lt;/span&gt;&lt;span style=&quot;&quot;&gt;]&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="303.5" y="360" width="221" height="40" as="geometry" />
         </mxCell>
         <mxCell id="u619u7Bk09ly1aYNOgYn-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;comic=1;sketch=1;" edge="1" parent="1" source="u619u7Bk09ly1aYNOgYn-12" target="u619u7Bk09ly1aYNOgYn-15">
@@ -59,7 +59,7 @@
         <mxCell id="u619u7Bk09ly1aYNOgYn-15" value="&lt;span&gt;BatchExecCalc&lt;br&gt;[FlinkRelDistribution:any]&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="303.5" y="534.5" width="221" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="u619u7Bk09ly1aYNOgYn-17" value="&lt;span&gt;BatchExecNestedLoopJoin&lt;br&gt;[&lt;/span&gt;&lt;span&gt;FlinkRelDistribution:any&lt;/span&gt;&lt;span&gt;]&lt;/span&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="u619u7Bk09ly1aYNOgYn-17" value="&lt;span&gt;BatchExecNestedLoopJoin&lt;br&gt;[&lt;/span&gt;&lt;span&gt;FlinkRelDistribution:any&lt;/span&gt;&lt;span&gt;]&lt;/span&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="303" y="620" width="221" height="50" as="geometry" />
         </mxCell>
         <mxCell id="u619u7Bk09ly1aYNOgYn-28" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;comic=1;sketch=1;" edge="1" parent="1">
@@ -81,7 +81,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="u619u7Bk09ly1aYNOgYn-32" value="&lt;span&gt;BatchExecExchange&lt;br&gt;[&lt;/span&gt;&lt;span&gt;FlinkRelDistribution:broadcast&lt;/span&gt;&lt;span&gt;]&lt;/span&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+        <mxCell id="u619u7Bk09ly1aYNOgYn-32" value="&lt;span&gt;BatchExecExchange&lt;br&gt;[&lt;/span&gt;&lt;span&gt;FlinkRelDistribution:broadcast&lt;/span&gt;&lt;span&gt;]&lt;/span&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="478" y="720" width="221" height="50" as="geometry" />
         </mxCell>
         <mxCell id="u619u7Bk09ly1aYNOgYn-33" value="" style="endArrow=classic;html=1;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;comic=1;sketch=1;" edge="1" parent="1" target="u619u7Bk09ly1aYNOgYn-32">
@@ -95,7 +95,7 @@
             <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="u619u7Bk09ly1aYNOgYn-41" value="&lt;span style=&quot;&quot;&gt;BatchExecLegacyTableSourceScan&lt;br&gt;[&lt;/span&gt;&lt;span style=&quot;&quot;&gt;FlinkRelDistribution:any&lt;/span&gt;&lt;span style=&quot;&quot;&gt;]&lt;/span&gt;&lt;span style=&quot;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="u619u7Bk09ly1aYNOgYn-41" value="&lt;span style=&quot;&quot;&gt;BatchExecLegacyTableSourceScan&lt;br&gt;[&lt;/span&gt;&lt;span style=&quot;&quot;&gt;FlinkRelDistribution:any&lt;/span&gt;&lt;span style=&quot;&quot;&gt;]&lt;/span&gt;&lt;span style=&quot;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="128" y="720" width="221" height="50" as="geometry" />
         </mxCell>
         <mxCell id="u619u7Bk09ly1aYNOgYn-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fontFamily=Comic Sans MS;comic=1;sketch=1;" edge="1" parent="1" source="u619u7Bk09ly1aYNOgYn-44" target="u619u7Bk09ly1aYNOgYn-47">
@@ -109,7 +109,7 @@
         <mxCell id="u619u7Bk09ly1aYNOgYn-44" value="&lt;span&gt;BatchExecCalc&lt;br&gt;[&lt;/span&gt;&lt;span&gt;FlinkRelDistribution:any&lt;/span&gt;&lt;span&gt;]&lt;/span&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="478" y="810" width="221" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="u619u7Bk09ly1aYNOgYn-47" value="&lt;span&gt;BatchExecNestedLoopJoin&lt;br&gt;[&lt;/span&gt;&lt;span&gt;FlinkRelDistribution:any&lt;/span&gt;&lt;span&gt;]&lt;/span&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="u619u7Bk09ly1aYNOgYn-47" value="&lt;span&gt;BatchExecNestedLoopJoin&lt;br&gt;[&lt;/span&gt;&lt;span&gt;FlinkRelDistribution:any&lt;/span&gt;&lt;span&gt;]&lt;/span&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="478" y="899" width="221" height="50" as="geometry" />
         </mxCell>
         <mxCell id="u619u7Bk09ly1aYNOgYn-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;fontSize=12;" edge="1" parent="1" source="u619u7Bk09ly1aYNOgYn-49" target="u619u7Bk09ly1aYNOgYn-65">
@@ -134,7 +134,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="u619u7Bk09ly1aYNOgYn-54" value="&lt;span&gt;BatchExecExchange&lt;br&gt;[&lt;/span&gt;&lt;span&gt;FlinkRelDistribution:broadcast&lt;/span&gt;&lt;span&gt;]&lt;/span&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+        <mxCell id="u619u7Bk09ly1aYNOgYn-54" value="&lt;span&gt;BatchExecExchange&lt;br&gt;[&lt;/span&gt;&lt;span&gt;FlinkRelDistribution:broadcast&lt;/span&gt;&lt;span&gt;]&lt;/span&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="630" y="1000" width="221" height="50" as="geometry" />
         </mxCell>
         <mxCell id="u619u7Bk09ly1aYNOgYn-58" value="right" style="endArrow=classic;html=1;fontFamily=Comic Sans MS;fontSize=12;entryX=0.5;entryY=0;entryDx=0;entryDy=0;sketch=1;" edge="1" parent="1" target="u619u7Bk09ly1aYNOgYn-54">
@@ -157,7 +157,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="u619u7Bk09ly1aYNOgYn-62" value="&lt;span style=&quot;&quot;&gt;BatchExecHashJoin&lt;br&gt;[&lt;/span&gt;&lt;span style=&quot;&quot;&gt;FlinkRelDistribution:any&lt;/span&gt;&lt;span style=&quot;&quot;&gt;]&lt;/span&gt;&lt;span style=&quot;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="u619u7Bk09ly1aYNOgYn-62" value="&lt;span style=&quot;&quot;&gt;BatchExecHashJoin&lt;br&gt;[&lt;/span&gt;&lt;span style=&quot;&quot;&gt;FlinkRelDistribution:any&lt;/span&gt;&lt;span style=&quot;&quot;&gt;]&lt;/span&gt;&lt;span style=&quot;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="630" y="1180" width="221" height="50" as="geometry" />
         </mxCell>
         <mxCell id="u619u7Bk09ly1aYNOgYn-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fontFamily=Comic Sans MS;comic=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;sketch=1;" edge="1" parent="1" source="u619u7Bk09ly1aYNOgYn-59" target="u619u7Bk09ly1aYNOgYn-62">
@@ -171,7 +171,7 @@
             <mxPoint x="-2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="u619u7Bk09ly1aYNOgYn-65" value="&lt;span style=&quot;&quot;&gt;BatchExecLegacyTableSourceScan&lt;br&gt;[&lt;/span&gt;&lt;span style=&quot;&quot;&gt;FlinkRelDistribution:any&lt;/span&gt;&lt;span style=&quot;&quot;&gt;]&lt;/span&gt;&lt;span style=&quot;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="u619u7Bk09ly1aYNOgYn-65" value="&lt;span style=&quot;&quot;&gt;BatchExecLegacyTableSourceScan&lt;br&gt;[&lt;/span&gt;&lt;span style=&quot;&quot;&gt;FlinkRelDistribution:any&lt;/span&gt;&lt;span style=&quot;&quot;&gt;]&lt;/span&gt;&lt;span style=&quot;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="320" y="1090" width="221" height="50" as="geometry" />
         </mxCell>
         <mxCell id="u619u7Bk09ly1aYNOgYn-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;fontSize=12;" edge="1" parent="1" source="u619u7Bk09ly1aYNOgYn-68" target="u619u7Bk09ly1aYNOgYn-71">
@@ -196,7 +196,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="u619u7Bk09ly1aYNOgYn-71" value="&lt;span style=&quot;&quot;&gt;BatchExecLegacyTableSourceScan&lt;br&gt;[&lt;/span&gt;&lt;span style=&quot;&quot;&gt;FlinkRelDistribution:any&lt;/span&gt;&lt;span style=&quot;&quot;&gt;]&lt;/span&gt;&lt;span style=&quot;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="u619u7Bk09ly1aYNOgYn-71" value="&lt;span style=&quot;&quot;&gt;BatchExecLegacyTableSourceScan&lt;br&gt;[&lt;/span&gt;&lt;span style=&quot;&quot;&gt;FlinkRelDistribution:any&lt;/span&gt;&lt;span style=&quot;&quot;&gt;]&lt;/span&gt;&lt;span style=&quot;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="480" y="1370" width="221" height="50" as="geometry" />
         </mxCell>
         <mxCell id="u619u7Bk09ly1aYNOgYn-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;fontSize=12;" edge="1" parent="1" source="u619u7Bk09ly1aYNOgYn-74" target="u619u7Bk09ly1aYNOgYn-79">
@@ -207,7 +207,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="u619u7Bk09ly1aYNOgYn-74" value="&lt;span&gt;BatchExecExchange&lt;br&gt;[&lt;/span&gt;&lt;span&gt;FlinkRelDistribution:broadcast&lt;/span&gt;&lt;span&gt;]&lt;/span&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+        <mxCell id="u619u7Bk09ly1aYNOgYn-74" value="&lt;span&gt;BatchExecExchange&lt;br&gt;[&lt;/span&gt;&lt;span&gt;FlinkRelDistribution:broadcast&lt;/span&gt;&lt;span&gt;]&lt;/span&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="780" y="1280" width="221" height="50" as="geometry" />
         </mxCell>
         <mxCell id="u619u7Bk09ly1aYNOgYn-75" value="" style="endArrow=classic;html=1;sketch=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="u619u7Bk09ly1aYNOgYn-74">
@@ -232,7 +232,7 @@
         <mxCell id="u619u7Bk09ly1aYNOgYn-79" value="&lt;span&gt;BatchExecCalc&lt;br&gt;[&lt;/span&gt;&lt;span&gt;FlinkRelDistribution:any&lt;/span&gt;&lt;span&gt;]&lt;/span&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="780" y="1370" width="221" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="u619u7Bk09ly1aYNOgYn-82" value="&lt;span style=&quot;&quot;&gt;BatchExecHashJoin&lt;br&gt;[&lt;/span&gt;&lt;span style=&quot;&quot;&gt;FlinkRelDistribution:any&lt;/span&gt;&lt;span style=&quot;&quot;&gt;]&lt;/span&gt;&lt;span style=&quot;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="u619u7Bk09ly1aYNOgYn-82" value="&lt;span style=&quot;&quot;&gt;BatchExecHashJoin&lt;br&gt;[&lt;/span&gt;&lt;span style=&quot;&quot;&gt;FlinkRelDistribution:any&lt;/span&gt;&lt;span style=&quot;&quot;&gt;]&lt;/span&gt;&lt;span style=&quot;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="780" y="1460" width="221" height="50" as="geometry" />
         </mxCell>
         <mxCell id="u619u7Bk09ly1aYNOgYn-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;fontSize=12;" edge="1" parent="1" source="u619u7Bk09ly1aYNOgYn-88" target="u619u7Bk09ly1aYNOgYn-105">
@@ -265,7 +265,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="u619u7Bk09ly1aYNOgYn-94" value="&lt;span&gt;BatchExecExchange&lt;br&gt;[&lt;/span&gt;&lt;span&gt;FlinkRelDistribution:broadcast&lt;/span&gt;&lt;span&gt;]&lt;/span&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+        <mxCell id="u619u7Bk09ly1aYNOgYn-94" value="&lt;span&gt;BatchExecExchange&lt;br&gt;[&lt;/span&gt;&lt;span&gt;FlinkRelDistribution:broadcast&lt;/span&gt;&lt;span&gt;]&lt;/span&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1001" y="1560" width="221" height="50" as="geometry" />
         </mxCell>
         <mxCell id="u619u7Bk09ly1aYNOgYn-96" value="" style="endArrow=classic;html=1;entryX=0.538;entryY=0.02;entryDx=0;entryDy=0;sketch=1;entryPerimeter=0;" edge="1" parent="1" target="u619u7Bk09ly1aYNOgYn-94">
@@ -290,10 +290,10 @@
         <mxCell id="u619u7Bk09ly1aYNOgYn-98" value="&lt;span&gt;BatchExecCalc&lt;br&gt;[&lt;/span&gt;&lt;span&gt;FlinkRelDistribution:any&lt;/span&gt;&lt;span&gt;]&lt;/span&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="1001" y="1650" width="221" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="u619u7Bk09ly1aYNOgYn-102" value="&lt;span style=&quot;&quot;&gt;BatchExecLegacyTableSourceScan&lt;br&gt;[&lt;/span&gt;&lt;span style=&quot;&quot;&gt;FlinkRelDistribution:any&lt;/span&gt;&lt;span style=&quot;&quot;&gt;]&lt;/span&gt;&lt;span style=&quot;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="u619u7Bk09ly1aYNOgYn-102" value="&lt;span style=&quot;&quot;&gt;BatchExecLegacyTableSourceScan&lt;br&gt;[&lt;/span&gt;&lt;span style=&quot;&quot;&gt;FlinkRelDistribution:any&lt;/span&gt;&lt;span style=&quot;&quot;&gt;]&lt;/span&gt;&lt;span style=&quot;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="1001" y="1740" width="221" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="u619u7Bk09ly1aYNOgYn-105" value="&lt;span style=&quot;&quot;&gt;BatchExecHashJoin&lt;br&gt;[&lt;/span&gt;&lt;span style=&quot;&quot;&gt;FlinkRelDistribution:any&lt;/span&gt;&lt;span style=&quot;&quot;&gt;]&lt;/span&gt;&lt;span style=&quot;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="u619u7Bk09ly1aYNOgYn-105" value="&lt;span style=&quot;&quot;&gt;BatchExecHashJoin&lt;br&gt;[&lt;/span&gt;&lt;span style=&quot;&quot;&gt;FlinkRelDistribution:any&lt;/span&gt;&lt;span style=&quot;&quot;&gt;]&lt;/span&gt;&lt;span style=&quot;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="560" y="1650" width="221" height="50" as="geometry" />
         </mxCell>
         <mxCell id="u619u7Bk09ly1aYNOgYn-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;fontSize=12;" edge="1" parent="1" source="u619u7Bk09ly1aYNOgYn-108" target="u619u7Bk09ly1aYNOgYn-124">
@@ -304,7 +304,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="u619u7Bk09ly1aYNOgYn-108" value="&lt;span&gt;BatchExecExchange&lt;br&gt;[&lt;/span&gt;&lt;span&gt;FlinkRelDistribution:hash&lt;/span&gt;&lt;span&gt;]&lt;/span&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+        <mxCell id="u619u7Bk09ly1aYNOgYn-108" value="&lt;span&gt;BatchExecExchange&lt;br&gt;[&lt;/span&gt;&lt;span&gt;FlinkRelDistribution:hash&lt;/span&gt;&lt;span&gt;]&lt;/span&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="690" y="1740" width="221" height="50" as="geometry" />
         </mxCell>
         <mxCell id="u619u7Bk09ly1aYNOgYn-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;fontSize=12;" edge="1" parent="1" source="u619u7Bk09ly1aYNOgYn-109" target="u619u7Bk09ly1aYNOgYn-118">
@@ -315,7 +315,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="u619u7Bk09ly1aYNOgYn-109" value="&lt;span&gt;BatchExecExchange&lt;br&gt;[&lt;/span&gt;&lt;span&gt;FlinkRelDistribution:hash&lt;/span&gt;&lt;span&gt;]&lt;/span&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+        <mxCell id="u619u7Bk09ly1aYNOgYn-109" value="&lt;span&gt;BatchExecExchange&lt;br&gt;[&lt;/span&gt;&lt;span&gt;FlinkRelDistribution:hash&lt;/span&gt;&lt;span&gt;]&lt;/span&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="430" y="1740" width="221" height="50" as="geometry" />
         </mxCell>
         <mxCell id="u619u7Bk09ly1aYNOgYn-112" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;sketch=1;" edge="1" parent="1" source="u619u7Bk09ly1aYNOgYn-105" target="u619u7Bk09ly1aYNOgYn-109">
@@ -351,7 +351,7 @@
         <mxCell id="u619u7Bk09ly1aYNOgYn-118" value="&lt;span&gt;BatchExecCalc&lt;br&gt;[&lt;/span&gt;&lt;span&gt;FlinkRelDistribution:any&lt;/span&gt;&lt;span&gt;]&lt;/span&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="430" y="1830" width="221" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="u619u7Bk09ly1aYNOgYn-121" value="&lt;span style=&quot;&quot;&gt;BatchExecLegacyTableSourceScan&lt;br&gt;[&lt;/span&gt;&lt;span style=&quot;&quot;&gt;FlinkRelDistribution:any&lt;/span&gt;&lt;span style=&quot;&quot;&gt;]&lt;/span&gt;&lt;span style=&quot;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="u619u7Bk09ly1aYNOgYn-121" value="&lt;span style=&quot;&quot;&gt;BatchExecLegacyTableSourceScan&lt;br&gt;[&lt;/span&gt;&lt;span style=&quot;&quot;&gt;FlinkRelDistribution:any&lt;/span&gt;&lt;span style=&quot;&quot;&gt;]&lt;/span&gt;&lt;span style=&quot;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="430" y="1920" width="221" height="50" as="geometry" />
         </mxCell>
         <mxCell id="u619u7Bk09ly1aYNOgYn-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;fontSize=12;" edge="1" parent="1" source="u619u7Bk09ly1aYNOgYn-124" target="u619u7Bk09ly1aYNOgYn-128">
@@ -365,7 +365,7 @@
         <mxCell id="u619u7Bk09ly1aYNOgYn-124" value="&lt;span&gt;BatchExecCalc&lt;br&gt;[&lt;/span&gt;&lt;span&gt;FlinkRelDistribution:any&lt;/span&gt;&lt;span&gt;]&lt;/span&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="690" y="1830" width="221" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="u619u7Bk09ly1aYNOgYn-128" value="&lt;span style=&quot;&quot;&gt;BatchExecLegacyTableSourceScan&lt;br&gt;[&lt;/span&gt;&lt;span style=&quot;&quot;&gt;FlinkRelDistribution:any&lt;/span&gt;&lt;span style=&quot;&quot;&gt;]&lt;/span&gt;&lt;span style=&quot;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="u619u7Bk09ly1aYNOgYn-128" value="&lt;span style=&quot;&quot;&gt;BatchExecLegacyTableSourceScan&lt;br&gt;[&lt;/span&gt;&lt;span style=&quot;&quot;&gt;FlinkRelDistribution:any&lt;/span&gt;&lt;span style=&quot;&quot;&gt;]&lt;/span&gt;&lt;span style=&quot;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="690" y="1920" width="221" height="50" as="geometry" />
         </mxCell>
       </root>
